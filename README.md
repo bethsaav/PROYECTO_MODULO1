@@ -9,7 +9,6 @@ sus destacados logros en la industria musical.
 
 ## Características
 Se usaron los siguientes tipos de etiquetas semánticas:
-- **Encabezado:** `<head>`
 - **Títulos:** `<h1>`, `<h2>`, etc.
 - **Párrafo:** `<p>`
 - **Contenido:** `<body>`
@@ -42,7 +41,7 @@ cd .
 
 
 ## Enlace GitHub Pages
-Link para acceder rápidamente al proyecto desde tu navegador: [proyecto_modulo1]()
+Link para acceder rápidamente al proyecto desde tu navegador: [proyecto_modulo1](https://bethsaav.github.io/PROYECTO_MODULO1/)
     
 
 ### Contacto/Autor
