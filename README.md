@@ -9,39 +9,41 @@ sus destacados logros en la industria musical.
 
 ## Características
 Se usaron los siguientes tipos de etiquetas semánticas:
-        - **Encabezado:** `<head>`
-        - **Títulos:** <h1>o <h2>
-        - **Párrafo:** <p>
-        - **Contenido:** <body>
-        - **Texto en negritas:** <strong>
-        - **Enlaces:** <a>
-        - **Listas:** <ul>
-        - **Formularios:** <input>
+- **Encabezado:** `<head>`
+- **Títulos:** `<h1>`, `<h2>`, etc.
+- **Párrafo:** `<p>`
+- **Contenido:** `<body>`
+- **Texto en negritas:** `<strong>`
+- **Enlaces:** `<a>`
+- **Listas:** `<ul>`
+- **Formularios:** `<input>`
     
 Se utilizaron los siguientes tipos de etiquetas no semánticas:
-        - **Contenedor de bloque:** <div>
-        - **Contenedor de línea:** <span>
+- **Contenedor de bloque:** `<div>`
+- **Contenedor de línea:** `<span>`
 
 ## ¿Cómo se puede ejecutar?
 
 -Clonar repositorio:  
-        ```sh
-         git clone https://github.com/bethsaav/PROYECTO_MODULO1.git
-        ```
+```sh
+git clone https://github.com/bethsaav/PROYECTO_MODULO1.git
+```
+
 -Abrir carpeta correcta:
-        ```sh
-        cd  PROYECTO_MODULO1
-        ```
+```sh
+cd  PROYECTO_MODULO1
+```
+
 -Abrir archivos del proyecto en Visual Studio Code:
-        ```sh
-        cd .
-        ```
-        -Ejecutar index.html en el navegador
+```sh
+cd .
+```
+-Ejecutar index.html en el navegador
 
 
 ## Enlace GitHub Pages
-    Link para acceder rápidamente al proyecto desde tu navegador: [proyecto_modulo1]()
+Link para acceder rápidamente al proyecto desde tu navegador: [proyecto_modulo1]()
     
 
 ### Contacto/Autor
-        Soy Elizabeth Salinas Avelino y me puedes contactar en: [GitHub:](https://github.com/bethsaav)
+Soy Elizabeth Salinas Avelino y me puedes contactar en: [GitHub:](https://github.com/bethsaav)
