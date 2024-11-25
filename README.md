@@ -45,4 +45,4 @@ Link para acceder rápidamente al proyecto desde tu navegador: [proyecto_modulo1
     
 
 ### Contacto/Autor
-Soy Elizabeth Salinas Avelino y me puedes contactar en: [GitHub:](https://github.com/bethsaav)
+Soy Elizabeth Salinas Avelino y me puedes contactar en: [GitHub](https://github.com/bethsaav)
