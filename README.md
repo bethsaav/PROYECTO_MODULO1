@@ -1,7 +1,9 @@
 # **Proyecto Final Módulo 1**
+
     En este trabajo apliqué los conocimientos adquiridos durante el Curso 'Course Frontend' de DEVF.
 
 ## Descripción del proyecto
+
     En esta página web descubrirás detalles sobre la vida de Taylor Swift y 
     sus destacados logros en la industria musical.
 
